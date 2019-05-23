@@ -1,0 +1,8 @@
+Ionut,D:\\Uni\\Second Year\\Semestrul 2\\MVP\\AvatarSudoku\\1.png
+Ionica,D:\\Uni\\Second Year\\Semestrul 2\\MVP\\AvatarSudoku\\2.png
+silviu,D:\\Uni\\Second Year\\Semestrul 2\\MVP\\AvatarSudoku\\3.jpg
+Google,D:\\Uni\\Second Year\\Semestrul 2\\MVP\\AvatarSudoku\\4.jpg
+Eu,C:\\Facultate\\C# Facultate\\Sudoku\\Sudoku\\Image\\image6.jpg
+Sandra,C:\\Facultate\\C# Facultate\\Sudoku\\Sudoku\\Image\\image9.jpg
+Pikachu,C:\\Facultate\\C# Facultate\\Sudoku\\Sudoku\\Image\\image3.jpg
+Andrei,C:\\Facultate\\C# Facultate\\Sudoku\\Sudoku\\Image\\image1.jpg

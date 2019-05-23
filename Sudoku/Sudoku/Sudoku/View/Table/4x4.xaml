@@ -1,0 +1,93 @@
+﻿<UserControl x:Class="Sudoku.View.Table._4x4"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             xmlns:vm1="clr-namespace:Sudoku.ViewModel"
+             d:DesignHeight="160" d:DesignWidth="160">
+    <UserControl.Resources>
+        <vm1:GameVM x:Key="GameVM" />
+    </UserControl.Resources>
+    <Border  DataContext="{Binding Source={StaticResource GameVM}}" BorderBrush="Black" BorderThickness="2">
+        <Grid>
+            <Grid.RowDefinitions>
+
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="40"></RowDefinition>
+                
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"></ColumnDefinition>
+                <ColumnDefinition Width="40"></ColumnDefinition>
+                <ColumnDefinition Width="40"></ColumnDefinition>
+                <ColumnDefinition Width="40"></ColumnDefinition>
+                
+            </Grid.ColumnDefinitions>
+            <Border Grid.Row="0"  BorderBrush="Black" BorderThickness="1">
+                <TextBox Name="tb00"  TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,-1.8,-1.8"/>
+            </Border>
+            <Border Grid.Row="1"  BorderBrush="Black" BorderThickness="1 1 1 3">
+                <TextBox Name="tb10" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            <Border Grid.Row="2"  BorderBrush="Black" BorderThickness="1 1 1 1">
+                <TextBox Name="tb20" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,-0.4"/>
+            </Border>
+            <Border Grid.Row="3"  BorderBrush="Black" BorderThickness="1">
+                <TextBox Name="tb30" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            
+            <Border Grid.Row="0" Grid.Column="1"  BorderBrush="Black" BorderThickness="1 1 3 1">
+                <TextBox Name="tb01" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            <Border Grid.Row="1" Grid.Column="1"  BorderBrush="Black" BorderThickness="1 1 3 3">
+                <TextBox Name="tb11" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            <Border Grid.Row="2" Grid.Column="1"  BorderBrush="Black" BorderThickness="1 1 3 1">
+                <TextBox Name="tb21" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,-0.4"/>
+            </Border>
+            <Border Grid.Row="3" Grid.Column="1" BorderBrush="Black" BorderThickness="1 1 3 1">
+                <TextBox Name="tb31" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            
+       
+
+            <Border Grid.Row="0" Grid.Column="2"  BorderBrush="Black" BorderThickness="1 1 1 1">
+                <TextBox Name="tb02" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,-0.4,0"/>
+            </Border>
+            <Border Grid.Row="1" Grid.Column="2"  BorderBrush="Black" BorderThickness="1 1 1 3">
+                <TextBox Name="tb12" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,-0.4,0"/>
+            </Border>
+            <Border Grid.Row="2" Grid.Column="2"  BorderBrush="Black" BorderThickness="1 1 1 1">
+                <TextBox Name="tb22" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,-0.4,-0.4"/>
+            </Border>
+            <Border Grid.Row="3" Grid.Column="2" BorderBrush="Black" BorderThickness="1 1 1 1">
+                <TextBox Name="tb32" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,-0.4,0"/>
+            </Border>
+            
+            
+
+            <Border Grid.Row="0" Grid.Column="3"  BorderBrush="Black" BorderThickness="1">
+                <TextBox Name="tb03" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            <Border Grid.Row="1" Grid.Column="3"  BorderBrush="Black" BorderThickness="1 1 1 3">
+                <TextBox Name="tb13" TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            <Border Grid.Row="2" Grid.Column="3"  BorderBrush="Black" BorderThickness="1 1 1 1">
+                <TextBox Name="tb23"  TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,-0.4"/>
+            </Border>
+            <Border Grid.Row="3" Grid.Column="3" BorderBrush="Black" BorderThickness="1">
+                <TextBox Name="tb33"  TextAlignment="Center" HorizontalAlignment="Left" Height="38" Text="" VerticalAlignment="Top" Width="38" FontWeight="Bold" TextWrapping="Wrap" FontSize="20" Margin="-0.8,-0.8,0,0"/>
+            </Border>
+            
+           
+
+
+
+
+
+        </Grid>
+    </Border>
+</UserControl>

@@ -1,0 +1,112 @@
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Login.baml
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Login.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\View\MainWindow.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Sudoku.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\App.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+D:\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\repos\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\repos\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\repos\Sudoku\Sudoku\obj\Debug\View\MainWindow.baml
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Sudoku.baml
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\repos\Sudoku\Sudoku\obj\Debug\View\NewUser.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\View\NewUser.baml
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Table\9x9.baml
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Table\9x9.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Table\4x4.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Table\6x6.g.cs
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Table\4x4.baml
+D:\repos\Sudoku\Sudoku\obj\Debug\View\Table\6x6.baml
+D:\repos\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\C#\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\C#\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\C#\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Login.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\View\MainWindow.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\View\NewUser.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Sudoku.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Table\4x4.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Table\6x6.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Table\9x9.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\App.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Login.baml
+C:\C#\Sudoku\Sudoku\obj\Debug\View\MainWindow.baml
+C:\C#\Sudoku\Sudoku\obj\Debug\View\NewUser.baml
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Sudoku.baml
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Table\4x4.baml
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Table\6x6.baml
+C:\C#\Sudoku\Sudoku\obj\Debug\View\Table\9x9.baml
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\C#\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Login.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\MainWindow.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\NewUser.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Sudoku.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\4x4.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\6x6.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\9x9.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\App.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Login.baml
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\MainWindow.baml
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\NewUser.baml
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Sudoku.baml
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\4x4.baml
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\6x6.baml
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\9x9.baml
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Uni\Second Year\Semestrul 2\Help\MVP\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Login.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\MainWindow.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\NewUser.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Sudoku.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\4x4.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\6x6.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\9x9.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\App.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.cache
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku_MarkupCompile.lref
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Login.baml
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\MainWindow.baml
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\NewUser.baml
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Sudoku.baml
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\4x4.baml
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\6x6.baml
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\View\Table\9x9.baml
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.g.resources
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+D:\Uni\Second Year\Semestrul 2\MVP\Workspace\Sudoku\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
