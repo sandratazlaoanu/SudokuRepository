@@ -93,7 +93,7 @@ namespace Sudoku.GameCommands
                     }
                 }
         }
-        public bool verifPat4()
+        public bool VerifPat4()
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -131,7 +131,7 @@ namespace Sudoku.GameCommands
             else
                 return true;
         }
-        public bool verifCol4(int i,int j)
+        public bool VerifCol4(int i,int j)
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -184,7 +184,7 @@ namespace Sudoku.GameCommands
             }
         }
 
-        public bool verifLinie4(int i, int j)
+        public bool VerifLinie4(int i, int j)
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -233,7 +233,7 @@ namespace Sudoku.GameCommands
                 return false;
             return true;
         }
-        public bool verifPat6()
+        public bool VerifPat6()
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -271,7 +271,7 @@ namespace Sudoku.GameCommands
             else
                 return true;
         }
-        public bool verifCol6(int i, int j)
+        public bool VerifCol6(int i, int j)
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -316,7 +316,7 @@ namespace Sudoku.GameCommands
                 return false;
             return true;
         }
-        public bool verifLinie6(int i, int j)
+        public bool VerifLinie6(int i, int j)
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -368,7 +368,7 @@ namespace Sudoku.GameCommands
                 return false;
             return true;
         }
-        public bool verifCol9(int i,int j)
+        public bool VerifCol9(int i,int j)
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -413,7 +413,7 @@ namespace Sudoku.GameCommands
             return true;
         }
        
-        public bool verifPat9()
+        public bool VerifPat9()
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -452,7 +452,7 @@ namespace Sudoku.GameCommands
                 return true;
 
         }
-        public bool verifLinie9(int i, int j)
+        public bool VerifLinie9(int i, int j)
         {
             LinearGradientBrush myBrush = new LinearGradientBrush();
             myBrush.GradientStops.Add(new GradientStop(Colors.Yellow, 0.0));
@@ -617,7 +617,7 @@ namespace Sudoku.GameCommands
                 {
                     if (gameVM.CurentDimension == 9)
                     {
-                        if (verifCol9(i, j) == false || verifLinie9(i, j) == false || verifPat9() == false)
+                        if (VerifCol9(i, j) == false || VerifLinie9(i, j) == false || VerifPat9() == false)
                         {
                             ok = 0;
                         }
@@ -625,7 +625,7 @@ namespace Sudoku.GameCommands
                     }
                     if (gameVM.CurentDimension == 4)
                     {
-                        if (verifCol4(i, j) == false || verifLinie4(i, j) == false || verifPat4() == false)
+                        if (VerifCol4(i, j) == false || VerifLinie4(i, j) == false || VerifPat4() == false)
                         {
                             ok = 0;
                         }
@@ -633,7 +633,7 @@ namespace Sudoku.GameCommands
                     }
                     if (gameVM.CurentDimension == 6)
                     {
-                        if (verifCol6(i, j) == false || verifLinie6(i, j) == false || verifPat6() == false)
+                        if (VerifCol6(i, j) == false || VerifLinie6(i, j) == false || VerifPat6() == false)
                         {
                             ok = 0;
                         }
